@@ -3,9 +3,6 @@ namespace Calculator
     using System.Windows.Forms;
     public partial class Form1 : Form
     {
-        private decimal num1 = 0;
-        private decimal num2 = 0;
-        private string operation = "";
         public Form1()
         {
             InitializeComponent();
