@@ -83,7 +83,7 @@ namespace Calculator
 
         private void button11_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "  ";
+            textBox1.Text = "    ";
         }
     }
 }
